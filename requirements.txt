@@ -1,2 +1,4 @@
-pyTelegramBotAPI
+aiohttp
 requests
+colorama
+python-telegram-bot
